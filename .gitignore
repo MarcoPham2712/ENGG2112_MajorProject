@@ -1,9 +1,7 @@
-/datasets/road_traffic_counts_hourly_permanent0.csv
-/datasets/road_traffic_counts_hourly_permanent1.csv
-/datasets/road_traffic_counts_hourly_permanent2.csv
-/datasets/road_traffic_counts_hourly_permanent3.csv
-/datasets/road_traffic_counts_station_reference.csv
+# Ignore all files in data/ and logs/
+datasets/*
+datasets_cleaned/*
 
-/datasets_cleaned/trafficData.csv
-/datasets_cleaned/trafficStations.csv
-/datasets_cleaned/weatherData.csv
+# But keep the folders (Git only tracks folders if they have tracked files)
+!datasets/.gitkeep
+!datasets_cleaned/.gitkeep
