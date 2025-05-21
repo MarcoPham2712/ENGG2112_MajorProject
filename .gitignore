@@ -1,2 +1,9 @@
-/datasets_cleaned
-/datasets
+/datasets/road_traffic_counts_hourly_permanent0.csv
+/datasets/road_traffic_counts_hourly_permanent1.csv
+/datasets/road_traffic_counts_hourly_permanent2.csv
+/datasets/road_traffic_counts_hourly_permanent3.csv
+/datasets/road_traffic_counts_station_reference.csv
+
+/datasets_cleaned/trafficData.csv
+/datasets_cleaned/trafficStations.csv
+/datasets_cleaned/weatherData.csv
