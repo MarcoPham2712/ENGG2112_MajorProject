@@ -1,12 +1,8 @@
-# Traffic Prediction Using Historical and Weather Data
+# ENGG2112 Major Project – Group 6
 
-**ENGG2112 Major Project – Group 6**
+> **Note:** The datasets are too large to store on GitHub. Please use the link below to access them.
 
-This project aims to predict traffic conditions based on historical traffic records and weather data using data-driven and machine learning approaches. This is a group project developed by Group 6.
-
-## 🚦 Project Overview
-
-Urban traffic congestion is a critical problem in modern cities. In this project, we seek to build a predictive model that estimates traffic flow or congestion levels based on historical traffic patterns and weather conditions. Our goal is to analyze how variables such as rain and temperature conditions affect traffic and to use that data to improve prediction accuracy.
+🔗 [ENGG2112 Major Project Files - Google Drive](https://drive.google.com/drive/folders/1opZFx88zn5x6jilQz0_piGYU5P04zR7_?usp=sharing)
 
 ## 📁 Repository Structure
 ```
@@ -42,11 +38,3 @@ Urban traffic congestion is a critical problem in modern cities. In this project
 ├── .gitignore                                                      # files and folders to ignore in version control
 └── README.md                                                       # project overview
 ```
-
-> **Note:** The datasets are too large to store on GitHub. Please use the link below to access them.
-
-## 🔗 Access to Datasets
-
-You can download the datasets from our shared Google Drive folder:
-
-📂 [ENGG2112 Major Project Files - Google Drive](https://drive.google.com/drive/folders/1opZFx88zn5x6jilQz0_piGYU5P04zR7_?usp=sharing)
