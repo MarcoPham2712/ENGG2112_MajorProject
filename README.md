@@ -8,17 +8,17 @@
 
 ### Sub-Problem A Tasks
 
-| Mahadi | Marco    | Hong          | Daniel                |
-|--------|----------|---------------|-----------------------|
-|        | LightGBM | Random Forest | Traffic data cleaning |
-|        | XGBoost  | MLP           |                       |
+| **Mahadi** | **Marco**    | **Hong**          | **Daniel**                |
+|------------|--------------|-------------------|---------------------------|
+|            | LightGBM     | Random Forest     | Traffic data cleaning     |
+|            | XGBoost      | MLP               |                           |
 
 ### Sub-Problem B Tasks
 
-| Mahadi            | Marco   | Hong | Daniel                  |
-|-------------------|---------|------|-------------------------|
-| Random Forest     | XGBoost | MLP  | Weather data collection |
-| Linear Regression |         |      |                         |
+| **Mahadi**        | **Marco**   | **Hong** | **Daniel**              |
+|-------------------|-------------|----------|-------------------------|
+| Random Forest     | XGBoost     | MLP      | Weather data collection |
+| Linear Regression |             |          |                         |
 
 ## 📁 Repository Structure
 ```
