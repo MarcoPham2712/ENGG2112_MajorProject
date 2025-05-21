@@ -48,3 +48,11 @@ Urban traffic congestion is a critical problem in modern cities. In this project
 │ └── Sub-Problem-B (RF and SVR).ipynb # Random Forest and SVR models
 ├── .gitignore # files and folders to ignore in version control
 └── README.md # project overview
+
+> **Note:** The datasets are too large to store on GitHub. Please use the link below to access them.
+
+## 🔗 Access to Datasets
+
+You can download the datasets from our shared Google Drive folder:
+
+📂 [ENGG2112 Major Project Files - Google Drive](https://drive.google.com/drive/folders/1opZFx88zn5x6jilQz0_piGYU5P04zR7_?usp=sharing)
