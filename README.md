@@ -4,6 +4,22 @@
 
 🔗 [ENGG2112 Major Project Files - Google Drive](https://drive.google.com/drive/folders/1opZFx88zn5x6jilQz0_piGYU5P04zR7_?usp=sharing)
 
+## 👥 Team Responsibilities
+
+### Sub-Problem A Tasks
+
+| Mahadi | Marco    | Hong          | Daniel                |
+|--------|----------|---------------|-----------------------|
+|        | LightGBM | Random Forest | Traffic data cleaning |
+|        | XGBoost  | MLP           |                       |
+
+### Sub-Problem B Tasks
+
+| Mahadi            | Marco   | Hong | Daniel                  |
+|-------------------|---------|------|-------------------------|
+| Random Forest     | XGBoost | MLP  | Weather data collection |
+| Linear Regression |         |      |                         |
+
 ## 📁 Repository Structure
 ```
 ├── data pre-procesing/
