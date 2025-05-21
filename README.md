@@ -1,11 +1,3 @@
-# ENGG2112_MajorProject
-The repository to upload code and update each week for the ENGG2112 Major Project for Group 6
-
-**Raw and cleaned .csv files can be found in the shared google drive folder:**
-https://drive.google.com/drive/folders/1opZFx88zn5x6jilQz0_piGYU5P04zR7_?usp=sharing
-
-**cleaned data files should be stored in a folder named "datasets_cleaned" within your local repo directory.**
-
 # Traffic Prediction Using Historical and Weather Data
 
 **ENGG2112 Major Project – Group 6**
@@ -17,6 +9,7 @@ This project aims to predict traffic conditions based on historical traffic reco
 Urban traffic congestion is a critical problem in modern cities. In this project, we seek to build a predictive model that estimates traffic flow or congestion levels based on historical traffic patterns and weather conditions. Our goal is to analyze how variables such as rain and temperature conditions affect traffic and to use that data to improve prediction accuracy.
 
 ## 📁 Repository Structure
+```
 ├── data pre-procesing/
 │ ├── Data Pre-Processing.ipynb # cleaning raw csv files obtained from Transport Open Data
 │ └── Weather Data Lookup # use API to get relevant weather data from SILO
@@ -48,6 +41,7 @@ Urban traffic congestion is a critical problem in modern cities. In this project
 │ └── Sub-Problem-B (RF and SVR).ipynb # Random Forest and SVR models
 ├── .gitignore # files and folders to ignore in version control
 └── README.md # project overview
+```
 
 > **Note:** The datasets are too large to store on GitHub. Please use the link below to access them.
 
