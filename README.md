@@ -32,7 +32,7 @@
 |   ├── road_traffic_counts_hourly_permanent2.csv                   # not included in repository
 |   ├── road_traffic_counts_hourly_permanent3.csv                   # not included in repository
 │   └── road_traffic_counts_station_reference.csv                   # not included in repository
-├── datastes_cleaned/
+├── datasets_cleaned/
 |   ├── .gitkeep                                                    # to ensure folder is kept in repository
 │   ├── trafficData.csv                                             # not included in repository
 │   ├── trafficStations.csv                                         # not included in repository
