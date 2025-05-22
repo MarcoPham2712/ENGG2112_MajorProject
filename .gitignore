@@ -1,5 +1,6 @@
 # Ignore all files in data/ and logs/
 datasets/*
+datasets_cleaned/*
 
 # But keep the folders (Git only tracks folders if they have tracked files)
 !datasets/.gitkeep
